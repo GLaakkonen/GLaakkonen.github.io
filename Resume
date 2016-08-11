@@ -23,10 +23,17 @@
           EDUCATION
       </div>
       <div id="content-education">
-        B.A. Psychology
         <div class="block-college">
           <div class="college">University of Minnesota-Twin Cities</div>
-          
+            <h4>B.A. Psychology
+            <br>
+            A.A. Liberal Arts
+            </h4>
+          <div class="college">Minneapolis Community Technical College</div>
+        </div>
+      </div>
+      <div id="content-employmenthistory">
+        <div class="
     
 </body>
 </html>

@@ -1,11 +1,8 @@
 body {
-	font: 16px Helvetica, Sans-Serif;
+	font: 16px Tahoma, Sans-Serif;
 	background: url(noise.png);
 }
 
-#pic {
-	float: right;
-}
 
 #button {
 	margin-left: 40%;

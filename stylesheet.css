@@ -1,4 +1,11 @@
 body {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
 	font: 16px;
 	font-family: Georgia; 
 	background-color: #ADD8E6;
